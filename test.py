@@ -1,2 +1,2 @@
-def square_root(num):
-    return num/2;
+def squared(x):
+    return x**2
